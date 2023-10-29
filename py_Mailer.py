@@ -5,14 +5,14 @@ from email.header import Header
 from email.utils import formatdate
 
 # Email account details
-sender_email = "nancya713@hotmail.com"
-sender_password = "Maxie0713"
+sender_email = ""
+sender_password = ""
 
 # Recipient email
-recipient_email = "lisamariestreet@hotmail.com"
+recipient_email = ""
 
 # Sender name
-sender_name = "Nancy Smith"
+sender_name = ""
 
 # Email content
 subject = "Styled Penetration Test Email"
